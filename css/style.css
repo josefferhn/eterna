@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+body{
+	font-family:'Open Sans', sans-serif;
+	color: #333;
+	font-size: 14px;
+}
+#sec-rs{
+	background-color: #555;
+	color: #fff;
+	padding: 10px 0px;
+}
+#sec-rs .fab{
+	color: #fff;
+}
+#sec-rs .fab:hover{
+	color: #333;
+}
